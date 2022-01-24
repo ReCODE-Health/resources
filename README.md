@@ -1,4 +1,22 @@
-# Core Library Resources
+# Core Library Resource
+
+### Moderator Guide
+
+When you receive a response from the Google Upload Forms, do the following
+
+1. Upload the file to the directory associated with the resource’s category. For example, if this file is of category “Consent Form”, please upload the new resource under `/Consent Form`. Enter any comments as the commit message.
+2. Create a companion metadata file. Filling the fields by referring to the schema described in the section below. After you have done that, upload the metadata file to the same directory as the resource.
+3. Check the library GUI and see if the new resource is properly displayed. If the metadata is not shown, check if the name `<file_name>.json` matches the new resource `<file_name>` (e.g. `test.pdf` → `test.pdf.json`)
+4. You are all set!
+
+> Q: What if I'm not a moderator, but I want to contribute to this repo?
+> 
+> A: Create a new branch for this commit and start a pull request
+
+> Q: Can I upload a resource using the local git client?
+> 
+> A: Of course. Use the normal `git add .`, `git commit`, and `git push` commands.
+
 
 ### Resource metadata schema
 
@@ -39,4 +57,3 @@ For each resource file, create a companion metadata file `<file_name>.json`.
     ]
 }
 ```
-The folder where the resource is in is the category/tag of the file. For example, `consent_form/test.pdf` is under the category "consent_form".
