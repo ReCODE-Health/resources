@@ -3,14 +3,15 @@ let sitemap = require('./sitemap.json')[0].contents;
 
 // get all file paths from json
 function injectMeta(sitemap, path) {
-  let files = [];
-  for (let i = 0; i < sitemap.length; i++) {
+  for (let i = sitemap.length - 1; i >= 0; i--) {
 	sitemap[i].path = path + sitemap[i].name;	
 	if (sitemap[i].type === 'file' && sitemap[i].name.endsWith('.json')) {
 		// find the file without .json
-		for (let j = 0; j < sitemap.length; j++)
-			if (sitemap[j].name + '.json' === sitemap[i].name)
+		for (let j = sitemap.length - 1; j >= 0; j--)
+			if (sitemap[j].name + '.json' === sitemap[i].name) {
 				sitemap[j].meta = require('./' + path + sitemap[i].name);
+			}
+		sitemap.splice(i, 1);
 	} else if (sitemap[i].type === 'directory') {
 	  injectMeta(sitemap[i].contents, path + sitemap[i].name + '/');
 	}

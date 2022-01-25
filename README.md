@@ -25,7 +25,12 @@ For each resource file, create a companion metadata file `<file_name>.json`.
 ```js
 {
     // the version of metadata; this version is beta 0.0.1
-    "metaVersion": "0.0.1",
+    "metaVersion": "0.0.2",
+    "category": "Consent Form", // not used yet
+    "tags": [
+        "GPS",
+        "Wearable",
+    ] // tags for searching
     // alternative name for the file
     "alias": "A short description",
     // uploader name of the file

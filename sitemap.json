@@ -1,357 +1,381 @@
 [
   {
     "type": "directory",
-    "name": ".",
+    "name": "Consent Form",
     "contents": [
       {
-        "type": "directory",
-        "name": "Consent Form",
-        "contents": [
-          {
-            "type": "file",
-            "name": "111160_2013_01_10_adult_consent.PDF"
-          },
-          {
-            "type": "file",
-            "name": "CognitionStudy_InitialConsentForm_062019.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Consent_Form.docx"
-          },
-          {
-            "type": "file",
-            "name": "Consent_Form_.doc"
-          },
-          {
-            "type": "file",
-            "name": "DIY_Self-Experimentation_Study__Informed_Consent_ASU.pdf"
-          },
-          {
-            "type": "file",
-            "name": "HS-08-00635_Parent_Permission_-_Youth_document_(IRB_modified).pdf"
-          },
-          {
-            "type": "file",
-            "name": "Informed_Consent.docx"
-          },
-          {
-            "type": "file",
-            "name": "Informed_Consent_Process.docx"
-          },
-          {
-            "type": "file",
-            "name": "JITAMI_Consent_Form_ASU.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Knowme_-_HS-08-00635_Adult_Informed_Consent_(IRB_modified)_2014.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Modified_Consent_Form-IRB_201012005855--modification_in_yellow-4-18-2016.docx"
-          },
-          {
-            "type": "file",
-            "name": "Parent_Consent_Form.docx"
-          },
-          {
-            "type": "file",
-            "name": "Participant_Consent_9-12-17_FIN.docx"
-          },
-          {
-            "type": "file",
-            "name": "Participant_Info_Sheet_12-6-17_FIN.doc"
-          },
-          {
-            "type": "file",
-            "name": "RobertFurberg2-_Student_Consent1.docx"
-          },
-          {
-            "type": "file",
-            "name": "RobertFurberg2-_Student_Consent2.docx"
-          },
-          {
-            "type": "file",
-            "name": "RobertFurberg2_FitbitConsent.docx"
-          },
-          {
-            "type": "file",
-            "name": "RobertFurberg2_SurveyConsent.docx"
-          },
-          {
-            "type": "file",
-            "name": "RobertFurberg3_AdultConsent.docx"
-          },
-          {
-            "type": "file",
-            "name": "RobertFurberg4_Consent.docx"
-          },
-          {
-            "type": "file",
-            "name": "SensecamConsent.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Stamped_Consent_New_Includes_Wearable.pdf"
-          },
-          {
-            "type": "file",
-            "name": "gps_consent.pdf"
-          },
-          {
-            "type": "file",
-            "name": "icf_penn_revised_v3_12.13.16_clean.docx"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "Guidance",
-        "contents": [
-          {
-            "type": "file",
-            "name": "9789241511766-eng.pdf",
-            "meta": {
-              "metaVersion": "0.0.1",
-              "alias": "A test pdf",
-              "uploader": "someone",
-              "uploadDate": "",
-              "description": "A very short description",
-              "team": [
-                "name1",
-                "name2"
-              ],
-              "institution": "UCSD",
-              "study": "",
-              "relatedStudies": [
-                "study1",
-                "study1",
-                "study1",
-                "study1"
-              ],
-              "discussions": [
-                23131,
-                32131,
-                421412
-              ]
-            }
-          },
-          {
-            "type": "file",
-            "name": "9789241511766-eng.pdf.json"
-          },
-          {
-            "type": "file",
-            "name": "Best_Practices_for_Conducting_Risky_Research-Oct-2016.pdf",
-            "meta": {
-              "metaVersion": "0.0.1",
-              "alias": "A test pdf",
-              "uploader": "someone",
-              "uploadDate": "",
-              "description": "A very short description",
-              "team": [
-                "name1",
-                "name2"
-              ],
-              "institution": "UCSD",
-              "study": "",
-              "relatedStudies": [
-                "study1",
-                "study1",
-                "study1",
-                "study1"
-              ],
-              "discussions": [
-                23131,
-                32131,
-                421412
-              ]
-            }
-          },
-          {
-            "type": "file",
-            "name": "Best_Practices_for_Conducting_Risky_Research-Oct-2016.pdf.json"
-          },
-          {
-            "type": "file",
-            "name": "Cloud_Computing___HHS.pdf"
-          },
-          {
-            "type": "file",
-            "name": "DRAFT_-_mobile_app_reviewer_sheet_-_rrr_1.5.18.docx"
-          },
-          {
-            "type": "file",
-            "name": "EICF_FDAGudiance.pdf"
-          },
-          {
-            "type": "file",
-            "name": "FDA_Adaptive_Design_for_Medical_Devices.pdf"
-          },
-          {
-            "type": "file",
-            "name": "FDA_Guidance_21_CFR_Part_11.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Mobile_App_Reviewer_Guidance_and_Checklist.pdf"
-          },
-          {
-            "type": "file",
-            "name": "social-ethics-in-social-media-research-summary.pdf"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "IRB",
-        "contents": [
-          {
-            "type": "file",
-            "name": "App_A_Information_Statement_SoMe_IRB___(7-15-15)_(1).doc"
-          },
-          {
-            "type": "file",
-            "name": "App_F_Recruitment_Script_for_Social_Media_SoMe_Study_7.17.15.docx"
-          },
-          {
-            "type": "file",
-            "name": "IRB_Privacy.pdf"
-          },
-          {
-            "type": "file",
-            "name": "JITAMI_Trial_IRB_Protocol_ASU.pdf"
-          },
-          {
-            "type": "file",
-            "name": "facebook2_irb_v01_1.doc"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "Other Communication",
-        "contents": [
-          {
-            "type": "file",
-            "name": "2015-06-01_AEHIV_038_RP_V1.1_29MAY2015_clean.docx"
-          },
-          {
-            "type": "file",
-            "name": "2015-06-01_AEHIV_038_Ver_1.1_29MAY2015_Appendix_D.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Attachment_16_-_Response_to_Reviewers_5.docx"
-          },
-          {
-            "type": "file",
-            "name": "DRAFT_-_mobile_app_submission_form_-_rrr_1.2.18.docx"
-          },
-          {
-            "type": "file",
-            "name": "Kelly_2016_Digital_Technologies_and_Disease_Prevention.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Twitter.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Usability_Participant_Info_Sheet_FIN.doc"
-          }
-        ]
+        "type": "file",
+        "name": "111160_2013_01_10_adult_consent.PDF",
+        "path": "Consent Form/111160_2013_01_10_adult_consent.PDF"
       },
       {
         "type": "file",
-        "name": "README.md"
-      },
-      {
-        "type": "directory",
-        "name": "Research Protocol",
-        "contents": [
-          {
-            "type": "file",
-            "name": "Assessing_the_Efficacy_of_an_App-Based_Method_of_Family_Planning.pdf"
-          },
-          {
-            "type": "file",
-            "name": "N-of-1_Protocol_CORE.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Protocol_DIY_Self_Experimentation_Study_ASU.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Protocol_Knowme_Networks_-_Mobile_Device_Biomonitoring_4-6-09.pdf"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "Technological Description",
-        "contents": [
-          {
-            "type": "file",
-            "name": "Mobile_Medical_Applications.pdf"
-          },
-          {
-            "type": "file",
-            "name": "N1_OnboardingFlow_042619.pdf"
-          },
-          {
-            "type": "file",
-            "name": "Render_by_Default.docx"
-          },
-          {
-            "type": "file",
-            "name": "test.pdf",
-            "meta": {
-              "metaVersion": "0.0.1",
-              "alias": "A test pdf",
-              "uploader": "someone",
-              "uploadDate": "",
-              "description": "A very short description",
-              "team": [
-                "name1",
-                "name2"
-              ],
-              "institution": "UCSD",
-              "study": "",
-              "relatedStudies": [
-                "study1",
-                "study1",
-                "study1",
-                "study1"
-              ],
-              "discussions": [
-                23131,
-                32131,
-                421412
-              ]
-            }
-          },
-          {
-            "type": "file",
-            "name": "test.pdf.json"
-          }
-        ]
+        "name": "CognitionStudy_InitialConsentForm_062019.pdf",
+        "path": "Consent Form/CognitionStudy_InitialConsentForm_062019.pdf"
       },
       {
         "type": "file",
-        "name": "inject_meta.js"
+        "name": "Consent_Form.docx",
+        "path": "Consent Form/Consent_Form.docx"
       },
       {
         "type": "file",
-        "name": "sitemap.json"
+        "name": "Consent_Form_.doc",
+        "path": "Consent Form/Consent_Form_.doc"
+      },
+      {
+        "type": "file",
+        "name": "DIY_Self-Experimentation_Study__Informed_Consent_ASU.pdf",
+        "path": "Consent Form/DIY_Self-Experimentation_Study__Informed_Consent_ASU.pdf"
+      },
+      {
+        "type": "file",
+        "name": "HS-08-00635_Parent_Permission_-_Youth_document_(IRB_modified).pdf",
+        "path": "Consent Form/HS-08-00635_Parent_Permission_-_Youth_document_(IRB_modified).pdf"
+      },
+      {
+        "type": "file",
+        "name": "Informed_Consent.docx",
+        "path": "Consent Form/Informed_Consent.docx"
+      },
+      {
+        "type": "file",
+        "name": "Informed_Consent_Process.docx",
+        "path": "Consent Form/Informed_Consent_Process.docx"
+      },
+      {
+        "type": "file",
+        "name": "JITAMI_Consent_Form_ASU.pdf",
+        "path": "Consent Form/JITAMI_Consent_Form_ASU.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Knowme_-_HS-08-00635_Adult_Informed_Consent_(IRB_modified)_2014.pdf",
+        "path": "Consent Form/Knowme_-_HS-08-00635_Adult_Informed_Consent_(IRB_modified)_2014.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Modified_Consent_Form-IRB_201012005855--modification_in_yellow-4-18-2016.docx",
+        "path": "Consent Form/Modified_Consent_Form-IRB_201012005855--modification_in_yellow-4-18-2016.docx"
+      },
+      {
+        "type": "file",
+        "name": "Parent_Consent_Form.docx",
+        "path": "Consent Form/Parent_Consent_Form.docx"
+      },
+      {
+        "type": "file",
+        "name": "Participant_Consent_9-12-17_FIN.docx",
+        "path": "Consent Form/Participant_Consent_9-12-17_FIN.docx"
+      },
+      {
+        "type": "file",
+        "name": "Participant_Info_Sheet_12-6-17_FIN.doc",
+        "path": "Consent Form/Participant_Info_Sheet_12-6-17_FIN.doc"
+      },
+      {
+        "type": "file",
+        "name": "RobertFurberg2-_Student_Consent1.docx",
+        "path": "Consent Form/RobertFurberg2-_Student_Consent1.docx"
+      },
+      {
+        "type": "file",
+        "name": "RobertFurberg2-_Student_Consent2.docx",
+        "path": "Consent Form/RobertFurberg2-_Student_Consent2.docx"
+      },
+      {
+        "type": "file",
+        "name": "RobertFurberg2_FitbitConsent.docx",
+        "path": "Consent Form/RobertFurberg2_FitbitConsent.docx"
+      },
+      {
+        "type": "file",
+        "name": "RobertFurberg2_SurveyConsent.docx",
+        "path": "Consent Form/RobertFurberg2_SurveyConsent.docx"
+      },
+      {
+        "type": "file",
+        "name": "RobertFurberg3_AdultConsent.docx",
+        "path": "Consent Form/RobertFurberg3_AdultConsent.docx"
+      },
+      {
+        "type": "file",
+        "name": "RobertFurberg4_Consent.docx",
+        "path": "Consent Form/RobertFurberg4_Consent.docx"
+      },
+      {
+        "type": "file",
+        "name": "SensecamConsent.pdf",
+        "path": "Consent Form/SensecamConsent.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Stamped_Consent_New_Includes_Wearable.pdf",
+        "path": "Consent Form/Stamped_Consent_New_Includes_Wearable.pdf"
+      },
+      {
+        "type": "file",
+        "name": "gps_consent.pdf",
+        "path": "Consent Form/gps_consent.pdf"
+      },
+      {
+        "type": "file",
+        "name": "icf_penn_revised_v3_12.13.16_clean.docx",
+        "path": "Consent Form/icf_penn_revised_v3_12.13.16_clean.docx"
       }
-    ]
+    ],
+    "path": "Consent Form"
   },
   {
-    "type": "report",
-    "directories": 6,
-    "files": 59
+    "type": "directory",
+    "name": "Guidance",
+    "contents": [
+      {
+        "type": "file",
+        "name": "9789241511766-eng.pdf",
+        "meta": {
+          "metaVersion": "0.0.1",
+          "alias": "A test pdf",
+          "uploader": "someone",
+          "uploadDate": "",
+          "description": "A very short description",
+          "team": [
+            "name1",
+            "name2"
+          ],
+          "institution": "UCSD",
+          "study": "",
+          "relatedStudies": [
+            "study1",
+            "study1",
+            "study1",
+            "study1"
+          ],
+          "discussions": [
+            23131,
+            32131,
+            421412
+          ]
+        },
+        "path": "Guidance/9789241511766-eng.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Best_Practices_for_Conducting_Risky_Research-Oct-2016.pdf",
+        "meta": {
+          "metaVersion": "0.0.1",
+          "alias": "A test pdf",
+          "uploader": "someone",
+          "uploadDate": "",
+          "description": "A very short description",
+          "team": [
+            "name1",
+            "name2"
+          ],
+          "institution": "UCSD",
+          "study": "",
+          "relatedStudies": [
+            "study1",
+            "study1",
+            "study1",
+            "study1"
+          ],
+          "discussions": [
+            23131,
+            32131,
+            421412
+          ]
+        },
+        "path": "Guidance/Best_Practices_for_Conducting_Risky_Research-Oct-2016.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Cloud_Computing___HHS.pdf",
+        "path": "Guidance/Cloud_Computing___HHS.pdf"
+      },
+      {
+        "type": "file",
+        "name": "DRAFT_-_mobile_app_reviewer_sheet_-_rrr_1.5.18.docx",
+        "path": "Guidance/DRAFT_-_mobile_app_reviewer_sheet_-_rrr_1.5.18.docx"
+      },
+      {
+        "type": "file",
+        "name": "EICF_FDAGudiance.pdf",
+        "path": "Guidance/EICF_FDAGudiance.pdf"
+      },
+      {
+        "type": "file",
+        "name": "FDA_Adaptive_Design_for_Medical_Devices.pdf",
+        "path": "Guidance/FDA_Adaptive_Design_for_Medical_Devices.pdf"
+      },
+      {
+        "type": "file",
+        "name": "FDA_Guidance_21_CFR_Part_11.pdf",
+        "path": "Guidance/FDA_Guidance_21_CFR_Part_11.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Mobile_App_Reviewer_Guidance_and_Checklist.pdf",
+        "path": "Guidance/Mobile_App_Reviewer_Guidance_and_Checklist.pdf"
+      },
+      {
+        "type": "file",
+        "name": "social-ethics-in-social-media-research-summary.pdf",
+        "path": "Guidance/social-ethics-in-social-media-research-summary.pdf"
+      }
+    ],
+    "path": "Guidance"
+  },
+  {
+    "type": "directory",
+    "name": "IRB",
+    "contents": [
+      {
+        "type": "file",
+        "name": "App_A_Information_Statement_SoMe_IRB___(7-15-15)_(1).doc",
+        "path": "IRB/App_A_Information_Statement_SoMe_IRB___(7-15-15)_(1).doc"
+      },
+      {
+        "type": "file",
+        "name": "App_F_Recruitment_Script_for_Social_Media_SoMe_Study_7.17.15.docx",
+        "path": "IRB/App_F_Recruitment_Script_for_Social_Media_SoMe_Study_7.17.15.docx"
+      },
+      {
+        "type": "file",
+        "name": "IRB_Privacy.pdf",
+        "path": "IRB/IRB_Privacy.pdf"
+      },
+      {
+        "type": "file",
+        "name": "JITAMI_Trial_IRB_Protocol_ASU.pdf",
+        "path": "IRB/JITAMI_Trial_IRB_Protocol_ASU.pdf"
+      },
+      {
+        "type": "file",
+        "name": "facebook2_irb_v01_1.doc",
+        "path": "IRB/facebook2_irb_v01_1.doc"
+      }
+    ],
+    "path": "IRB"
+  },
+  {
+    "type": "directory",
+    "name": "Other Communication",
+    "contents": [
+      {
+        "type": "file",
+        "name": "2015-06-01_AEHIV_038_RP_V1.1_29MAY2015_clean.docx",
+        "path": "Other Communication/2015-06-01_AEHIV_038_RP_V1.1_29MAY2015_clean.docx"
+      },
+      {
+        "type": "file",
+        "name": "2015-06-01_AEHIV_038_Ver_1.1_29MAY2015_Appendix_D.pdf",
+        "path": "Other Communication/2015-06-01_AEHIV_038_Ver_1.1_29MAY2015_Appendix_D.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Attachment_16_-_Response_to_Reviewers_5.docx",
+        "path": "Other Communication/Attachment_16_-_Response_to_Reviewers_5.docx"
+      },
+      {
+        "type": "file",
+        "name": "DRAFT_-_mobile_app_submission_form_-_rrr_1.2.18.docx",
+        "path": "Other Communication/DRAFT_-_mobile_app_submission_form_-_rrr_1.2.18.docx"
+      },
+      {
+        "type": "file",
+        "name": "Kelly_2016_Digital_Technologies_and_Disease_Prevention.pdf",
+        "path": "Other Communication/Kelly_2016_Digital_Technologies_and_Disease_Prevention.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Twitter.pdf",
+        "path": "Other Communication/Twitter.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Usability_Participant_Info_Sheet_FIN.doc",
+        "path": "Other Communication/Usability_Participant_Info_Sheet_FIN.doc"
+      }
+    ],
+    "path": "Other Communication"
+  },
+  {
+    "type": "directory",
+    "name": "Research Protocol",
+    "contents": [
+      {
+        "type": "file",
+        "name": "Assessing_the_Efficacy_of_an_App-Based_Method_of_Family_Planning.pdf",
+        "path": "Research Protocol/Assessing_the_Efficacy_of_an_App-Based_Method_of_Family_Planning.pdf"
+      },
+      {
+        "type": "file",
+        "name": "N-of-1_Protocol_CORE.pdf",
+        "path": "Research Protocol/N-of-1_Protocol_CORE.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Protocol_DIY_Self_Experimentation_Study_ASU.pdf",
+        "path": "Research Protocol/Protocol_DIY_Self_Experimentation_Study_ASU.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Protocol_Knowme_Networks_-_Mobile_Device_Biomonitoring_4-6-09.pdf",
+        "path": "Research Protocol/Protocol_Knowme_Networks_-_Mobile_Device_Biomonitoring_4-6-09.pdf"
+      }
+    ],
+    "path": "Research Protocol"
+  },
+  {
+    "type": "directory",
+    "name": "Technological Description",
+    "contents": [
+      {
+        "type": "file",
+        "name": "Mobile_Medical_Applications.pdf",
+        "path": "Technological Description/Mobile_Medical_Applications.pdf"
+      },
+      {
+        "type": "file",
+        "name": "N1_OnboardingFlow_042619.pdf",
+        "path": "Technological Description/N1_OnboardingFlow_042619.pdf"
+      },
+      {
+        "type": "file",
+        "name": "Render_by_Default.docx",
+        "path": "Technological Description/Render_by_Default.docx"
+      },
+      {
+        "type": "file",
+        "name": "test.pdf",
+        "meta": {
+          "metaVersion": "0.0.1",
+          "alias": "A test pdf",
+          "uploader": "someone",
+          "uploadDate": "",
+          "description": "A very short description",
+          "team": [
+            "name1",
+            "name2"
+          ],
+          "institution": "UCSD",
+          "study": "",
+          "relatedStudies": [
+            "study1",
+            "study1",
+            "study1",
+            "study1"
+          ],
+          "discussions": [
+            23131,
+            32131,
+            421412
+          ]
+        },
+        "path": "Technological Description/test.pdf"
+      }
+    ],
+    "path": "Technological Description"
   }
 ]
