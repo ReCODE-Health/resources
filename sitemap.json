@@ -163,11 +163,15 @@
         "type": "file",
         "name": "Best_Practices_for_Conducting_Risky_Research-Oct-2016.pdf",
         "meta": {
-          "metaVersion": "0.0.1",
+          "metaVersion": "0.0.2",
           "alias": "A test pdf",
           "uploader": "someone",
           "uploadDate": "",
           "description": "A very short description",
+          "tags": [
+            "practices",
+            "dummy"
+          ],
           "team": [
             "name1",
             "name2"
@@ -301,6 +305,11 @@
     "path": "Other Communication"
   },
   {
+    "type": "file",
+    "name": "README.md",
+    "path": "README.md"
+  },
+  {
     "type": "directory",
     "name": "Research Protocol",
     "contents": [
@@ -354,6 +363,10 @@
           "alias": "A test pdf",
           "uploader": "someone",
           "uploadDate": "",
+          "tags": [
+            "tag1",
+            "tag2"
+          ],
           "description": "A very short description",
           "team": [
             "name1",
@@ -377,5 +390,10 @@
       }
     ],
     "path": "Technological Description"
+  },
+  {
+    "type": "file",
+    "name": "inject_meta.js",
+    "path": "inject_meta.js"
   }
 ]
