@@ -305,11 +305,6 @@
     "path": "Other Communication"
   },
   {
-    "type": "file",
-    "name": "README.md",
-    "path": "README.md"
-  },
-  {
     "type": "directory",
     "name": "Research Protocol",
     "contents": [
@@ -390,10 +385,5 @@
       }
     ],
     "path": "Technological Description"
-  },
-  {
-    "type": "file",
-    "name": "inject_meta.js",
-    "path": "inject_meta.js"
   }
 ]
