@@ -111,7 +111,35 @@
         "contents": [
           {
             "type": "file",
-            "name": "9789241511766-eng.pdf"
+            "name": "9789241511766-eng.pdf",
+            "meta": {
+              "metaVersion": "0.0.1",
+              "alias": "A test pdf",
+              "uploader": "someone",
+              "uploadDate": "",
+              "description": "A very short description",
+              "team": [
+                "name1",
+                "name2"
+              ],
+              "institution": "UCSD",
+              "study": "",
+              "relatedStudies": [
+                "study1",
+                "study1",
+                "study1",
+                "study1"
+              ],
+              "discussions": [
+                23131,
+                32131,
+                421412
+              ]
+            }
+          },
+          {
+            "type": "file",
+            "name": "9789241511766-eng.pdf.json"
           },
           {
             "type": "file",
@@ -324,6 +352,6 @@
   {
     "type": "report",
     "directories": 6,
-    "files": 58
+    "files": 59
   }
 ]
