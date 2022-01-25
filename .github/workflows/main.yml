@@ -34,7 +34,7 @@ jobs:
         run: tree -J > sitemap.json
       
       - name: List files
-        run: ls
+        run: cat /home/runner/work/resources/inject_meta.json
       
       - name: Inject metadata
         run: node inject_meta.json
