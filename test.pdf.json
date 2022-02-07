@@ -1,0 +1,30 @@
+{
+    "metaVersion": "0.0.1",
+    "alias": "A test pdf",
+    "uploader": "someone",
+    "uploadDate": "",
+
+	"tags": [
+		"tag1",
+		"tag2"
+	],
+    "description": "A very short description",
+
+    "team": [
+        "name1",
+        "name2"
+    ],
+    "institution": "UCSD",
+    "study": "",
+    "relatedStudies": [
+        "study1",
+        "study1",
+        "study1",
+        "study1"
+    ],
+    "discussions": [
+        23131,
+        32131,
+        421412
+    ]
+}
