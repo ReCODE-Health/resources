@@ -310,6 +310,57 @@
     "contents": [
       {
         "type": "file",
+        "name": "1644882984270_1 2015-06-01_AEHIV_038_RP_V1.1_29MAY2015_clean.docx",
+        "meta": {
+          "metaVersion": "0.0.2",
+          "alias": "Little_2015_Social_media_networks_HIV",
+          "uploader": "",
+          "uploadDate": "2015-06-01",
+          "category": "Protocol",
+          "tags": [
+            "social media",
+            "social network",
+            "HIV/AIDS",
+            "Twitter",
+            "at-risk populations"
+          ],
+          "description": "As of today 36 million people have died of AIDS, and 35.3 million people are living with HIV worldwide [1]. Despite the tremendous speed at which information technology has improved, we still have no fast and accurate methods to identify populations susceptible to HIV infections. This adversely impacts our efforts to implement targeted and therefore more effective HIV prevention. As a solution, we propose a new method of identifying HIV at-risk populations using publicly available social media data as an indicator of HIV risk. Recent research [2] has outlined the feasibility of using Twitter as a broad but real-time monitoring tool for HIV. We propose to take this approach further, identifying and characterizing HIV at-risk populations locally in the San Diego area at a more granular scale in terms of both demographics and communities. Using social network analysis and machine learning techniques, we will combine social media data with the data available from the Primary Infection Research Consortium (PIRC) at the UCSD AntiViral Research Center (AVRC).  Our overall aim is to use Twitter to map the local social/sexual network dynamics of at-risk MSM and overlay these with the well-characterized San Diego Primary Infection Cohort (SD PIC) HIV transmission network [3] available at AVRC. Where these networks intersect will provide opportunities to evaluate targeted approaches to HIV prevention interventions. In this project we therefore propose to characterize HIV at-risk population among MSM in San Diego using Twitter data.",
+          "team": [
+            "Susan Little",
+            "Nadir Weibel"
+          ],
+          "institution": "University of California, San Diego",
+          "study": "AEHIV 038: Using Social Media to characterize social and sexual networks of men who have sex with men (MSM)"
+        },
+        "path": "Research Protocol/1644882984270_1 2015-06-01_AEHIV_038_RP_V1.1_29MAY2015_clean.docx"
+      },
+      {
+        "type": "file",
+        "name": "1644883425811_2 2015-06-01_AEHIV_038_Ver_1.1_29MAY2015_Appendix_D.pdf",
+        "meta": {
+          "metaVersion": "0.0.3",
+          "alias": "Little_2015_Example_recruitment_message",
+          "uploader": "",
+          "uploadDate": "2015-06-01",
+          "category": "",
+          "tags": [
+            "at-risk populations",
+            "recruitment",
+            "incentive",
+            "communication"
+          ],
+          "description": "Example announcement for recruiting participants to join the study",
+          "team": [
+            "Susan Little",
+            "Nadir Weibel"
+          ],
+          "institution": "University of California, San Diego",
+          "study": "AEHIV 038: Using Social Media to characterize social and sexual networks of men who have sex with men (MSM)"
+        },
+        "path": "Research Protocol/1644883425811_2 2015-06-01_AEHIV_038_Ver_1.1_29MAY2015_Appendix_D.pdf"
+      },
+      {
+        "type": "file",
         "name": "Assessing_the_Efficacy_of_an_App-Based_Method_of_Family_Planning.pdf",
         "path": "Research Protocol/Assessing_the_Efficacy_of_an_App-Based_Method_of_Family_Planning.pdf"
       },
