@@ -30,12 +30,12 @@ jobs:
         id: diff
         run: |
           if [[ $(git diff) ]]; then
-          echo "::set-output name=diff::true"
+          echo "::set-output name=diff::${{ toJSON(true) }} "
           else
-          echo "::set-output name=diff::false"
+          echo "::set-output name=diff::${{ toJSON(false) }} "
           fi
       - name: Add & Commit
-        if: ${{ steps.diff.outputs.diff == "true"}}
+        if: ${{ steps.diff.outputs.diff}}
         uses: EndBug/add-and-commit@v8.0.1
         with:
           author_name: "Form bot"
