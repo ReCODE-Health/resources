@@ -37,6 +37,5 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           base: automatic_upload_${{ steps.date.outputs.date }}
-          branch: main
           title: Pull typeform uploads (${{ steps.date.outputs.date }})
 
