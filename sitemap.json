@@ -132,6 +132,26 @@
     "contents": [
       {
         "type": "file",
+        "name": "903567fa70b9-math20e_hw8.pdf",
+        "meta": {
+          "alias": "This is the name",
+          "uploader": "Xiyan Shao",
+          "upload_date": "2022-03-07T21:26:34Z",
+          "category": "Guidance",
+          "tags": [
+            "testing"
+          ],
+          "description": "description",
+          "team": [
+            "UCSD"
+          ],
+          "instituion": "UCSD",
+          "study": "no"
+        },
+        "path": "Guidance/903567fa70b9-math20e_hw8.pdf"
+      },
+      {
+        "type": "file",
         "name": "9789241511766-eng.pdf",
         "meta": {
           "metaVersion": "0.0.1",
