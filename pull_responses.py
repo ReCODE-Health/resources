@@ -167,10 +167,6 @@ if __name__ == "__main__":
                 with open(f"{category}/{file_name}.json", "w") as f:
                     json.dump(res_dict, f)
                 print(f"Saved json metadata file {file_name}.json in {category}")
-            
-        # write responses to json file
-        with open("responses.json", "w") as f:
-            json.dump(responses, f)
     else:
         print("Failed to fetch responses")
         print("Response code: {}".format(response.status_code))
