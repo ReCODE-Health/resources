@@ -33,4 +33,11 @@ jobs:
         with:
           author_name: "Form bot"
           new_branch: automatic_upload_${{ steps.date.outputs.date }}
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          base: automatic_upload_${{ steps.date.outputs.date }}
+          branch: main
+          title: Pull typeform uploads (${{ steps.date.outputs.date }})
+          draft: true
 
