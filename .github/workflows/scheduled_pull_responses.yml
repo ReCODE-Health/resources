@@ -19,6 +19,7 @@ jobs:
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       - run: pip install requests
       - name: Pull responses from typeform
+        id: pull
         env:
           TYPEFORM_TOKEN: ${{secrets.TYPEFORM_TOKEN}}
           FORM_ID: ${{secrets.FORM_ID}}
@@ -26,16 +27,8 @@ jobs:
       - name: Get current time
         id: date
         run: echo "::set-output name=date::$(date +'%Y%m%d%H%M')"
-      - name: test if no diff
-        id: diff
-        run: |
-          if [[ $(git diff) ]]; then
-          echo "::set-output name=diff::t"
-          else
-          echo "::set-output name=diff::f"
-          fi
       - name: Add & Commit
-        if: ${{ steps.diff.outputs.diff == 't'}}
+        if: ${{ steps.pull.outputs.diff}}
         uses: EndBug/add-and-commit@v8.0.1
         with:
           author_name: "Form bot"

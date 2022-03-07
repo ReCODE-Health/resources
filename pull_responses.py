@@ -146,6 +146,10 @@ if __name__ == "__main__":
     if response.status_code == 200:
         print("Successfully fetched responses")
         responses = response.json()
+        if len(response["items"]) == 0:
+            print("::set-output name=diff::false")
+            exit(0)
+        print("::set-output name=diff::true")
         for response in responses["items"]:
             res_dict = process_response(response)
             # download file
