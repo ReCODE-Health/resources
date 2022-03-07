@@ -1,0 +1,33 @@
+# .github/workflows/scheduled-builds.yml
+name: Pull Typeform Responses on a CRON Schedule
+
+on:
+  schedule:
+    # Runs "at minute 55 past every hour" (see https://crontab.guru)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  
+jobs:
+  build:
+    name: Trigger Site Rebuild
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+      - name: Pull responses from typeform
+        env:
+          TYPEFORM_TOKEN: ${{secrets.TYPEFORM_TOKEN}}
+          FORM_ID: ${{secrets.FORM_ID}}
+        run: python pull_responses.py
+      - name: Get current time
+        id: date
+        run: echo "$(date +'%Y-%m-%dT%H:%M:%S')"
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v8.0.1
+        with:
+          author_name: "Form bot"
+          new_branch: automatic-upload-${{ steps.date.outputs.date }}
+

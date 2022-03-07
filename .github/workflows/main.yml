@@ -31,7 +31,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Print file tree
-        run: tree -J -I 'sitemap.json|*.js|README.md' > sitemap.json 
+        run: tree -J -I 'sitemap.json|*.js|*.py|README.md' > sitemap.json 
       
       - name: Inject metadata
         run: node inject_meta.js
