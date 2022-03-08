@@ -131,7 +131,7 @@ def process_response(res):
     res_dict["tags"] = text_to_list(get_feild_value(res, "nuoUDTK5CUcF"))
     res_dict["description"] = get_feild_value(res, "pte6YJazrkBb")
     res_dict["team"] = text_to_list(get_feild_value(res, "0rK1ljT0458x"))
-    res_dict["instituion"] = get_feild_value(res, "uFJF4cRAJnBz")
+    res_dict["instituion"] = get_feild_value(res, "wBpmgK8iML6g")
     res_dict["study"] = get_feild_value(res, "DjSGmIdC6GaF")
     return res_dict
 
