@@ -1,8 +1,19 @@
 # Core Library Resource
 
-### Moderator Guide
+### Standard Guide
 
-When you receive a response from the Google Upload Forms, do the following
+Every hour, the Github Action workflow will autmatically fetch new responses from Type Form and format them into acceptable file/metadata file pairs. Please do the following
+
+1. Review the [branches](https://github.com/ReCODE-Health/resources/branches) created by the Github Action workflow
+2. If you think the user uploads should be accepted, create a [pull request](https://github.com/ReCODE-Health/resources/compare) and merge them into the main branch. This will trigger workflows to generate the sitemap used for the library interface.
+3. If you with to edit the user uploads, please commits to the corresponding branches.
+4. You can close the branches if they are rejected. 
+
+### Manual Guide
+
+Please see this part of the guide only if you want to conduct manual changes to the repo.
+
+When you receive a response from the upload form, do the following
 
 1. Upload the file to the directory associated with the resource’s category. For example, if this file is of category “Consent Form”, please upload the new resource under `/Consent Form`. Enter any comments as the commit message.
 2. Create a companion metadata file. Filling the fields by referring to the schema described in the section below. After you have done that, upload the metadata file to the same directory as the resource.
