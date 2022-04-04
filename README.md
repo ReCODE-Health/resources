@@ -1,4 +1,4 @@
-# Connected and Open Research Ethics (CORE) Library Resource Library Resource
+# Connected and Open Research Ethics (CORE) Library Resource
 
 ### Standard Guide
 
