@@ -6,8 +6,8 @@ Every hour, the Github Action workflow will autmatically fetch new responses fro
 
 1. Review the [branches](https://github.com/ReCODE-Health/resources/branches) created by the Github Action workflow
 2. If you think the user uploads should be accepted, create a [pull request](https://github.com/ReCODE-Health/resources/compare) and merge them into the main branch. This will trigger workflows to generate the sitemap used for the library interface.
-3. If you with to edit the user uploads, please commits to the corresponding branches.
-4. You can close the branches if they are rejected. 
+3. If you want to edit the user uploads, please commit to the corresponding branches.
+4. You can close the branches if they are considered rejected. 
 
 ### Manual Guide
 
