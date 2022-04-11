@@ -2,10 +2,8 @@ import datetime
 import requests
 import json
 import os
-# TYPEFORM_TOKEN = os.environ["TYPEFORM_TOKEN"]
-TYPEFORM_TOKEN = "tfp_55A8aaq72t9Z9vkSmZTLA4iagEKGfmTwj2i4t6YDB6uA_3soNJ1G87nTL8J"
-# FORM_ID = os.environ["FORM_ID"]
-FORM_ID = "uRSli9Ir"
+TYPEFORM_TOKEN = os.environ["TYPEFORM_TOKEN"]
+FORM_ID = os.environ["FORM_ID"]
 
 # {
 #     "landing_id": "iee1xbkm5pik0ts7iee1hvcpdjk78kbh",
