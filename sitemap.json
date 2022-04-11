@@ -160,6 +160,34 @@
           "study": "Measuring what you do and where you go during the day"
         },
         "path": "Consent/1645553707475_3 111160_2013_01_10_adult_consent.PDF"
+      },
+      {
+        "type": "file",
+        "name": "52cd34ee394b-33_Knowme___HS_08_00635_Adult_Informed_Consent__IRB_modified__2014.pdf",
+        "meta": {
+          "alias": "Metz_2013_Mobile Device Biomonitoring to Prevent and Treat Obesity in Underserved Minority Youth: The KNOWME NETWORKS study",
+          "uploader": null,
+          "upload_date": "2022-04-11T05:24:24Z",
+          "category": "Consent Form",
+          "tags": [
+            "Mobile Device",
+            "Obesity"
+          ],
+          "description": null,
+          "team": [
+            "Donna Spruijt-Metz",
+            "Murali Annavaram",
+            "Shri Narayanan",
+            "Mitra Urbashi",
+            "Gaurav Sukhatme",
+            "Nenad Medvidovic",
+            "Giselle Ragusa",
+            "Luis Santiago"
+          ],
+          "instituion": "US,University of Southern California,http://www.usc.edu/",
+          "study": "Mobile Device Biomonitoring to Prevent and Treat Obesity in Underserved Minority Youth: The KNOWME NETWORKS study"
+        },
+        "path": "Consent/52cd34ee394b-33_Knowme___HS_08_00635_Adult_Informed_Consent__IRB_modified__2014.pdf"
       }
     ],
     "path": "Consent"
@@ -273,6 +301,24 @@
           "study": "Monitoring and Evaluating Digital Health Interventions"
         },
         "path": "Guidance/1645551614965_4 9789241511766-eng.pdf"
+      },
+      {
+        "type": "file",
+        "name": "c1c6c749f1c7-34_Mobile_App_Reviewer_Guidance_and_Checklist.pdf",
+        "meta": {
+          "alias": "Mobile App Reviewer Guidance/Checklist",
+          "uploader": null,
+          "upload_date": "2022-04-11T05:26:40Z",
+          "category": "Guidance",
+          "tags": [
+            "Mobile Apps"
+          ],
+          "description": "This guide is intended to provide background on mobile apps for healthcare and raise questions which should be considered in reviewing such apps. This is not designed to provide guidance for comprehensive analysis of all technology in this space. The questions should be used to start a conversation and prompt additional discussion. Many of the questions raised here relate to general good practice in software development and deployment and are not specific to only medical apps or apps for clinical trials.",
+          "team": [],
+          "instituion": null,
+          "study": null
+        },
+        "path": "Guidance/c1c6c749f1c7-34_Mobile_App_Reviewer_Guidance_and_Checklist.pdf"
       }
     ],
     "path": "Guidance"
