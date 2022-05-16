@@ -73,3 +73,19 @@ For each resource file, create a companion metadata file `<file_name>.json`.
     ]
 }
 ```
+
+### Google Analytics
+You can access the reports by going to the corresponding panels on the dashboard.
+
+> To export a report: Open the report you'd like to export. Analytics exports the report as it is currently displayed on your screen, so make sure that you've applied your desired date range and report settings.
+    Click Export (across from the report title).
+    Select one of the export formats:
+        CSV
+        TSV
+        TSV for Excel
+        Excel (XLSX)
+        Google Sheets
+        PDF
+
+> Your file is generated automatically and available in the download directory on your computer.
+> The final line chart that is generated when you run a motion chart is not exported.
